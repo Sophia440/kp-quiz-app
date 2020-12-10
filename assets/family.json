@@ -1,0 +1,78 @@
+[
+    {
+        "1": "Mr and Mrs Smith live at home with their two children. They are a typical example of a modern __________ family",
+        "2": "Mr and Mrs Popatlal live at home with their aged parents, children and grandchildren. They are a typical example of a traditional __________ family",
+        "3": "Mrs Jones lives on her own and has to look after her two children. There are a lot of __________ families like hers",
+        "4": "Some parents need to __________ their children more strictly",
+        "5": "When I was a child, I had a very turbulent __________",
+        "6": "Mrs Kelly is __________ and finds it difficult to look after her children on her own",
+        "7": "Many men believe that __________ is the responsibility of a woman",
+        "8": "__________ is a particularly difficult time of life for a child",
+        "9": "A person’s behaviour can sometimes be traced back to his/her __________",
+        "10": "The country has seen a sharp drop in the __________ in the last few years"
+    },
+    {
+        "1": {
+            "a": "extended",
+            "b": "nuclear",
+            "c": "compact"
+        },
+        "2": {
+            "a": "nuclear",
+            "b": "enlarged",
+            "c": "extended"
+        },
+        "3": {
+            "a": "single-parent",
+            "b": "mother-only",
+            "c": "mono-parent"
+        },
+        "4": {
+            "a": "bring down",
+            "b": "bring about",
+            "c": "bring up"
+        },
+        "5": {
+            "a": "upbringing",
+            "b": "upraising",
+            "c": "uplifting"
+        },
+        "6": {
+            "a": "divorced",
+            "b": "divided",
+            "c": "diverged"
+        },
+        "7": {
+            "a": "childhelp",
+            "b": "childcare",
+            "c": "childaid"
+        },
+        "8": {
+            "a": "convalescence",
+            "b": "adolescence",
+            "c": "convergence"
+        },
+        "9": {
+            "a": "creative years",
+            "b": "formulating years",
+            "c": "formative years"
+        },
+        "10": {
+            "a": "birth rate",
+            "b": "baby rate",
+            "c": "born rate"
+        }
+    },
+    {
+        "1": "nuclear",
+        "2": "extended",
+        "3": "single-parent",
+        "4": "bring up",
+        "5": "upbringing",
+        "6": "divorced",
+        "7": "childcare",
+        "8": "adolescence",
+        "9": "formative years",
+        "10": "birth rate"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "1": "Tonight’s __________ of ‘Hamlet’ begins at 7.30.",
+        "2": "Camford University Press have just released a collection of Shakespeare’s __________ .",
+        "3": "The rock group ‘Glass Weasel’ have released a limited __________ of their new album which contains a CD-Rom of their latest show.",
+        "4": "His last book received excellent __________ in the newspapers.",
+        "5": "There is an __________ of Monet’s work at the Tate.",
+        "6": "The British National Orchestra is delighted with the government’s promise of a £500,000 __________ .",
+        "7": "Tickets have already sold out for the first day’s showing of Tom Cartmill’s paintings at the National __________ .",
+        "8": "Ernest Hemingway was one of the twentieth century’s most famous __________",
+        "9": "The French __________ of the nineteenth century had a profound influence on the world of art.",
+        "10": "Oldhaven Press are going to __________ my new book!"
+    },
+    {
+        "1": {
+            "a": "perform",
+            "b": "performing",
+            "c": "performance"
+        },
+        "2": {
+            "a": "works",
+            "b": "workers",
+            "c": "workings"
+        },
+        "3": {
+            "a": "edit",
+            "b": "edition",
+            "c": "editor"
+        },
+        "4": {
+            "a": "reviews",
+            "b": "previews",
+            "c": "revisions"
+        },
+        "5": {
+            "a": "exhibitionist",
+            "b": "exhibit",
+            "c": "exhibition"
+        },
+        "6": {
+            "a": "subsidiary",
+            "b": "subsidy",
+            "c": "subpoena"
+        },
+        "7": {
+            "a": "Galleon",
+            "b": "Galley",
+            "c": "Gallery"
+        },
+        "8": {
+            "a": "novels",
+            "b": "novelties",
+            "c": "novelists"
+        },
+        "9": {
+            "a": "impressions",
+            "b": "impressionists",
+            "c": "impressionisms"
+        },
+        "10": {
+            "a": "publish",
+            "b": "publisher",
+            "c": "publication"
+        }
+    },
+    {
+        "1": "performance",
+        "2": "works",
+        "3": "edition",
+        "4": "reviews",
+        "5": "exhibition",
+        "6": "subsidy",
+        "7": "Gallery",
+        "8": "novelists",
+        "9": "impressionists",
+        "10": "publish"
+    }
+]

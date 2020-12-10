@@ -1,0 +1,78 @@
+[
+    {
+        "1": "Japan, Korea and the Philippines are all in the __________ .",
+        "2": "The South Pole is situated in the __________ .",
+        "3": "New Zealand is part of __________ .",
+        "4": "Bangladesh is part of __________ .",
+        "5": "Nicaragua is a country in __________ .",
+        "6": "Argentina, Brazil, Colombia, Panama and Honduras all form part of __________ .",
+        "7": "The United Kingdom and the Republic of Ireland form a group of islands known as __________ .",
+        "8": "The United Kingdom and the Republic of Ireland form part of __________ .",
+        "9": "Kuwait, Oman and the United Arab Emirates form part of what is known as __________ .",
+        "10": "Norway, Sweden, Finland and Denmark are known collectively as __________ ."
+    },
+    {
+        "1": {
+            "a": "Near East",
+            "b": "Middle East",
+            "c": "Far East"
+        },
+        "2": {
+            "a": "Arctic",
+            "b": "Antarctic",
+            "c": "Antarctica"
+        },
+        "3": {
+            "a": "Australia",
+            "b": "Australasia",
+            "c": "Austria"
+        },
+        "4": {
+            "a": "the Indian subcontinent",
+            "b": "India",
+            "c": "Indiana"
+        },
+        "5": {
+            "a": "North America",
+            "b": "South America",
+            "c": "Central America"
+        },
+        "6": {
+            "a": "Latin America",
+            "b": "Spanish America",
+            "c": "South America"
+        },
+        "7": {
+            "a": "Great Britain",
+            "b": "England",
+            "c": "the British Isles"
+        },
+        "8": {
+            "a": "Continental Europe",
+            "b": "Mainland Europe",
+            "c": "Europe"
+        },
+        "9": {
+            "a": "the West Indies",
+            "b": "the Gulf States",
+            "c": "the European Union"
+        },
+        "10": {
+            "a": "the Baltic Republics",
+            "b": "the Caribbean",
+            "c": "Scandinavia"
+        }
+    },
+    {
+        "1": "Far East",
+        "2": "Antarctic",
+        "3": "Australasia",
+        "4": "the Indian subcontinent",
+        "5": "Central America",
+        "6": "Latin America",
+        "7": "the British Isles",
+        "8": "Europe",
+        "9": "the Gulf States",
+        "10": "Scandinavia"
+    }
+]

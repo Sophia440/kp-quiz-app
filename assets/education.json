@@ -1,0 +1,78 @@
+[
+    {
+        "1": "He didn’t get a good grade the first time he did his exam, so decided to __________ it.",
+        "2": "People who attend university later in life are often called __________ students.",
+        "3": "Although she had left school and was working, she went to evening classes at the local College of __________ Education.",
+        "4": "After he left school, he decided to go on to __________ education and applied for a place at Edinburgh University.",
+        "5": "He received a local government __________ to help him pay for his course.",
+        "6": "Education helps us to acquire knowledge and learn new __________ .",
+        "7": "Although she already had a first degree from university, she decided that she wanted to work towards a __________ degree later in life.",
+        "8": "We should make the best of every __________ to learn.",
+        "9": "Nowadays, __________ education is promoted a lot in schools.",
+        "10": "A large number of parents are dissatisfied with the __________ education system, and put their children into private schools instead."
+    },
+    {
+        "1": {
+            "a": "resit",
+            "b": "remake",
+            "c": "repair"
+        },
+        "2": {
+            "a": "aged",
+            "b": "mature",
+            "c": "old"
+        },
+        "3": {
+            "a": "Upper",
+            "b": "Further",
+            "c": "Higher"
+        },
+        "4": {
+            "a": "further",
+            "b": "upper",
+            "c": "higher"
+        },
+        "5": {
+            "a": "fee",
+            "b": "fare",
+            "c": "grant"
+        },
+        "6": {
+            "a": "skills",
+            "b": "powers",
+            "c": "abilities"
+        },
+        "7": {
+            "a": "further",
+            "b": "senior",
+            "c": "higher"
+        },
+        "8": {
+            "a": "chance",
+            "b": "opportunity",
+            "c": "availability"
+        },
+        "9": {
+            "a": "body",
+            "b": "health",
+            "c": "vitality"
+        },
+        "10": {
+            "a": "government",
+            "b": "national",
+            "c": "state"
+        }
+    },
+    {
+        "1": "resit",
+        "2": "mature",
+        "3": "Further",
+        "4": "higher",
+        "5": "grant",
+        "6": "skills",
+        "7": "higher",
+        "8": "opportunity",
+        "9": "health",
+        "10": "state"
+    }
+]

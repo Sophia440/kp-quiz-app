@@ -1,0 +1,78 @@
+[
+    {
+        "1": "Thousands of buildings were flattened in the San Francisco __________ of 1906.",
+        "2": "The __________ damaged properties all along the coast.",
+        "3": "A __________ struck the southern coast with tremendous force.",
+        "4": "The __________ has been dormant for years, but last month it showed signs of new life.",
+        "5": "Several __________ were heard during the night as the army occupied the city.",
+        "6": "There has been a major __________ on the motorway.",
+        "7": "The __________ were caused by heavy rain.",
+        "8": "Relief workers are bringing food to __________-stricken areas.",
+        "9": "__________ is widespread in parts of Africa, with millions suffering from malnutrition.",
+        "10": "The authorities are taking steps to prevent an __________ of cholera."
+    },
+    {
+        "1": {
+            "a": "earthquack",
+            "b": "earthquake",
+            "c": "earthquaik"
+        },
+        "2": {
+            "a": "hurricane",
+            "b": "hurriccane",
+            "c": "huriccane"
+        },
+        "3": {
+            "a": "tornadoe",
+            "b": "tornado",
+            "c": "tornaddo"
+        },
+        "4": {
+            "a": "volcano",
+            "b": "vulcano",
+            "c": "volcanoe"
+        },
+        "5": {
+            "a": "explossions",
+            "b": "explosiones",
+            "c": "explosions"
+        },
+        "6": {
+            "a": "acident",
+            "b": "accident",
+            "c": "acciddent"
+        },
+        "7": {
+            "a": "floodes",
+            "b": "floods",
+            "c": "flouds"
+        },
+        "8": {
+            "a": "draught",
+            "b": "drought",
+            "c": "drouhgt"
+        },
+        "9": {
+            "a": "famine",
+            "b": "fammine",
+            "c": "faminne"
+        },
+        "10": {
+            "a": "epidemmic",
+            "b": "epidemic",
+            "c": "eppidemic"
+        }
+    },
+    {
+        "1": "earthquake",
+        "2": "hurricane",
+        "3": "tornado",
+        "4": "volcano",
+        "5": "explosions",
+        "6": "accident",
+        "7": "floods",
+        "8": "drought",
+        "9": "famine",
+        "10": "epidemic"
+    }
+]
